@@ -1,8 +1,8 @@
-#Visão Geral
+# Visão Geral
 
 Este projeto reúne o trabalho da segunda avaliação da disciplina Linguagens Formais e Autômatos do curso de Engenharia da Computação da UFMA (2025.1). Nesta etapa, foram modelados e implementados autômatos finitos determinísticos (AFD) e não determinísticos (AFN) , além de Automatos com Pilha (AP) para diferentes NPCs (Non-Player Characters) em um cenário de jogo, além de um automato aplicado ao jogo Arkanoid e material de apresentação teórica.
 
-#Reconhecimentos e Direitos Autorais
+# Reconhecimentos e Direitos Autorais
 
 @autor: Emanuel Lopes Silva e Stenio Fonseca
 
